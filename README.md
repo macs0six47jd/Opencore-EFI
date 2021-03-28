@@ -1,8 +1,7 @@
-# Opencore-EFI
+# Opencore EFI files
 # Lenovo ThinkPad L480 
 
-Hackintosh using OpenCore 0.6.7 EFI files
-
+Hackintosh using OpenCore 0.6.7 & Big Sur 11.2.3
 # Specs:
 1. i7-8550u + UHD 620
 2. 8gig RAM
